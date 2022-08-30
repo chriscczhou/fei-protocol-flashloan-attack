@@ -7,7 +7,7 @@ module.exports = {
     hardhat: {
       forking: {
         // Replace with your actual API URL
-        url: "https://eth-mainnet.g.alchemy.com/v2/gAtOehxU07LnyRv1Yxjuu-kneN4zjwJW",
+        url: "https://eth-mainnet.g.alchemy.com/v2/",
       },
     },
   },
